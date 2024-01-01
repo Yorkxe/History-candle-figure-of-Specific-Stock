@@ -10,7 +10,7 @@ import mplfinance as mpf
 import pandas as pd
 
 url = 'https://www.twse.com.tw/zh/trading/historical/stock-day.html'
-year = [i for i in range(2023, 2009, -1)]
+year = [i for i in range(2024, 2009, -1)]
 month = [i for i in range(1, 13)]
 
 #Limit the value input in enter grip in tkinter
