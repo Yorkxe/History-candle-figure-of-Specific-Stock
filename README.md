@@ -18,4 +18,5 @@ we have sended.
 ![image](https://github.com/Yorkxe/History-candle-figure-of-Specific-Stock/blob/main/The%20candle%20figure.PNG)
 What if you send the wrong serial number the data the stocked hasn't listed, an alert UI will pop out to remind you that the info you
 typed is wrong.
+
 ![image](https://github.com/Yorkxe/History-candle-figure-of-Specific-Stock/blob/main/No%20such%20data!!.PNG)
