@@ -12,6 +12,7 @@ Procedure:
 1.
 The tkinter UI will show and it simulates the enter gird like TWSE website to enter the year/month/stock serial.
 ![image](https://github.com/Yorkxe/History-candle-figure-of-Specific-Stock/blob/main/Procedure%201.PNG)
+
 2.
 After sending the year/month/stock serial, the program will make the candle figure according the year/month/stock serial
 we have sended.
